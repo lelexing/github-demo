@@ -7,3 +7,9 @@ function foo(){
   console.log(1);
 }
 ```
+
+This is another function
+```javascript
+function g(){
+  console.log(2);
+}
