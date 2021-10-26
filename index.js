@@ -13,3 +13,7 @@ console.log('1-------------');
 function order() {
     //TODO
 }
+
+class Student {
+
+}
