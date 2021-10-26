@@ -7,4 +7,9 @@ function g() {
     //TODO
 }
 
+
 console.log('1-------------');
+
+function order() {
+    //TODO
+}
