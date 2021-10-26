@@ -1,3 +1,5 @@
-function hello(){
-  //TODO
+function hello() {
+    //TODO
 }
+
+console.log('1111111');
