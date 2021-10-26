@@ -6,3 +6,7 @@ foo();
 function g() {
     //TODO
 }
+
+function order(){
+    //TODO
+}
