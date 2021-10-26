@@ -6,3 +6,5 @@ foo();
 function g() {
     //TODO
 }
+
+console.log('1-------------');
