@@ -1,23 +1,9 @@
-function foo() {
-    console.log('foo...');
+class Person {
+    constructor(name) {
+        this.name = name;
+    }
+
+    getName() {
+        return this.name;
+    }
 }
-foo();
-
-function g() {
-    //TODO
-}
-
-
-console.log('1-------------');
-
-function order() {
-    //TODO
-}
-
-
-class Student {
-
-}
-
-
-console.log('other team members changes");
